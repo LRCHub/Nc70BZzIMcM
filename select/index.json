@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フェノメノン",
+  "base_artist": "szri",
+  "createdAt": "2026-01-08T17:20:13.282209Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フェノメノン",
+      "artist": "szri",
+      "has_synced": false,
+      "path": "select/pl_01_フェノメノン_szri.txt"
+    }
+  ]
+}
